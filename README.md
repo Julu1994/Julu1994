@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mahamudur-jewel-portfolio.netlify.app/](https://mahamudur-jewel-portfolio.netlify.app/)
 
-- 💬 Ask me about **MERN stack, Redux, AWS, MongoDB,**
+- 💬 Ask me about **MERN stack, Redux, AWS**
 
 - 📫 How to reach me **mrjewel837@gmail.com**
 
