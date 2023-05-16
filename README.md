@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Dane.com](https://github.com/Julu1994/Dane-fashion-E-commerce-project)
+- 🔭 I’m currently working at PhaseTree
 
-- 🌱 I’m currently working on **data structures and algorithms**
+- 🌱 I’m currently working on ** 3d visualization of moleculer structure **
 
-- 👨‍💻 All of my projects are available at [https://mahamudur-jewel-portfolio.netlify.app/](https://mahamudur-jewel-portfolio.netlify.app/)
+- 👨‍💻 All of my personal projects are available at [https://mahamudur-jewel-portfolio.netlify.app/](https://mahamudur-jewel-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN stack, Redux, AWS, MongoDB,**
 
