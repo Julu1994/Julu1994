@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working on ** 3d visualization of moleculer structure **
 
-- 👨‍💻 All of my personal projects are available at [https://mahamudur-jewel-portfolio.netlify.app/](https://mahamudur-jewel-portfolio.netlify.app/)
+- 👨‍💻 All of my personal projects are available at [https://mahamudurjewel.netlify.app/](https://mahamudurjewel.netlify.app/)
 
 - 💬 Ask me about **MERN stack, Redux, AWS, Nextjs, Typescript**
 
