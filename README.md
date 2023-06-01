@@ -1,5 +1,5 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*w2X7ExLGBzb-iznRW1rAVw.jpeg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Mahamudur</h1>
+<h1 align="center">Hi 👋, I'm Mahamudur Jewel</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my personal projects are available at [https://mahamudurjewel.netlify.app/](https://mahamudurjewel.netlify.app/)
 
-- 💬 Ask me about **MERN stack, Redux, AWS, Nextjs, Typescript**
+- 💬 Ask me about **MERN stack, Redux, AWS, Nextjs, Typescript, SQL**
 
 - 📫 How to reach me **mrjewel837@gmail.com**
 
