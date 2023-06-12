@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my personal projects are available at [https://mahamudurjewel.netlify.app/](https://mahamudurjewel.netlify.app/)
 
-- 💬 Ask me about **MERN stack, Redux, AWS, Nextjs, Typescript, SQL**
+- 💬 Ask me about **React, Nodejs, Express, Redux, AWS EC2 instances, Lambda function, Nextjs, Typescript,MongoDB SQL**
 
 - 📫 How to reach me **mrjewel837@gmail.com**
 
