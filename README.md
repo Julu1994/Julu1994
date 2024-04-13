@@ -7,12 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at PhaseTree
-
-- 🌱 I’m currently working on ** 3d visualization of moleculer structure **
-
-- 👨‍💻 All of my personal projects are available at [https://mahamudurjewel.netlify.app/](https://mahamudurjewel.netlify.app/)
-
 - 💬 Ask me about **React, Nodejs, Express, Redux, AWS EC2 instances, Lambda function, Nextjs, Typescript,MongoDB SQL**
 
 - 📫 How to reach me **mrjewel837@gmail.com**
